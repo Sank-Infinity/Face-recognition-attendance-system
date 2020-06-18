@@ -34,6 +34,8 @@ In the end it gives us proper report in the form of CSV file.
 
 # Environment 
 
+Pycharm
+
 Python 3.6.8
 
 Pillow	7.1.2	
